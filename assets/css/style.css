@@ -1,0 +1,42 @@
+    
+@media (min-width: 980px) {    
+    
+}
+
+.body {height: 100%; }
+.container{
+
+    margin-top:24px; 
+    padding: 2px;
+    padding-top: 30px;
+    
+}
+.shadow2 {
+
+    box-shadow: 1px 1px 7px 1px rgba(0,0,0,.15)!important;
+}
+
+.mo{
+
+    margin: 24px;
+}
+body{
+   background: url("../images/concrete_seamless.png");
+ 
+   
+}
+
+.h1{
+
+    text-align: center;
+}
+.kk{
+
+    margin:40px ;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
